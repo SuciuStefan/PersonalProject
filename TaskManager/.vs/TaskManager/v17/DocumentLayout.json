@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\stefa\\Desktop\\Programare\\Proiecte personale\\PersonalProjects\\TaskManager\\",
+  "WorkspaceRootPath": "C:\\Users\\stefa\\Desktop\\Programare\\Proiecte personale\\PersonalProjects\\TaskManager_V1.0.0\\TaskManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02F97D2B-1562-4A97-BF22-80E398C805DF}|TaskManager.vcxproj|C:\\Users\\stefa\\Desktop\\Programare\\Proiecte personale\\PersonalProjects\\TaskManager\\Task.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{02F97D2B-1562-4A97-BF22-80E398C805DF}|TaskManager.vcxproj|solutionrelative:Task.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02F97D2B-1562-4A97-BF22-80E398C805DF}|TaskManager.vcxproj|C:\\Users\\stefa\\Desktop\\Programare\\Proiecte personale\\PersonalProjects\\TaskManager\\TaskManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{02F97D2B-1562-4A97-BF22-80E398C805DF}|TaskManager.vcxproj|solutionrelative:TaskManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02F97D2B-1562-4A97-BF22-80E398C805DF}|TaskManager.vcxproj|C:\\Users\\stefa\\Desktop\\Programare\\Proiecte personale\\PersonalProjects\\TaskManager\\TaskManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{02F97D2B-1562-4A97-BF22-80E398C805DF}|TaskManager.vcxproj|C:\\Users\\stefa\\Desktop\\Programare\\Proiecte personale\\PersonalProjects\\TaskManager_V1.0.0\\TaskManager\\TaskManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{02F97D2B-1562-4A97-BF22-80E398C805DF}|TaskManager.vcxproj|solutionrelative:TaskManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02F97D2B-1562-4A97-BF22-80E398C805DF}|TaskManager.vcxproj|C:\\Users\\stefa\\Desktop\\Programare\\Proiecte personale\\PersonalProjects\\TaskManager\\Task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{02F97D2B-1562-4A97-BF22-80E398C805DF}|TaskManager.vcxproj|solutionrelative:Task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{02F97D2B-1562-4A97-BF22-80E398C805DF}|TaskManager.vcxproj|C:\\Users\\stefa\\Desktop\\Programare\\Proiecte personale\\PersonalProjects\\TaskManager_V1.0.0\\TaskManager\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02F97D2B-1562-4A97-BF22-80E398C805DF}|TaskManager.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02F97D2B-1562-4A97-BF22-80E398C805DF}|TaskManager.vcxproj|C:\\Users\\stefa\\Desktop\\Programare\\Proiecte personale\\PersonalProjects\\TaskManager\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{02F97D2B-1562-4A97-BF22-80E398C805DF}|TaskManager.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{02F97D2B-1562-4A97-BF22-80E398C805DF}|TaskManager.vcxproj|C:\\Users\\stefa\\Desktop\\Programare\\Proiecte personale\\PersonalProjects\\TaskManager_V1.0.0\\TaskManager\\Task.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02F97D2B-1562-4A97-BF22-80E398C805DF}|TaskManager.vcxproj|solutionrelative:Task.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F97D2B-1562-4A97-BF22-80E398C805DF}|TaskManager.vcxproj|C:\\Users\\stefa\\Desktop\\Programare\\Proiecte personale\\PersonalProjects\\TaskManager_V1.0.0\\TaskManager\\TaskManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02F97D2B-1562-4A97-BF22-80E398C805DF}|TaskManager.vcxproj|solutionrelative:TaskManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F97D2B-1562-4A97-BF22-80E398C805DF}|TaskManager.vcxproj|C:\\Users\\stefa\\Desktop\\Programare\\Proiecte personale\\PersonalProjects\\TaskManager_V1.0.0\\TaskManager\\Task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02F97D2B-1562-4A97-BF22-80E398C805DF}|TaskManager.vcxproj|solutionrelative:Task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,28 +30,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\stefa\\Desktop\\Programare\\Proiecte personale\\PersonalProjects\\TaskManager\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\stefa\\Desktop\\Programare\\Proiecte personale\\PersonalProjects\\TaskManager_V1.0.0\\TaskManager\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\stefa\\Desktop\\Programare\\Proiecte personale\\PersonalProjects\\TaskManager\\main.cpp",
+              "ToolTip": "C:\\Users\\stefa\\Desktop\\Programare\\Proiecte personale\\PersonalProjects\\TaskManager_V1.0.0\\TaskManager\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAAAGAAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-30T18:27:02.683Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Task.cpp",
-              "DocumentMoniker": "C:\\Users\\stefa\\Desktop\\Programare\\Proiecte personale\\PersonalProjects\\TaskManager\\Task.cpp",
+              "DocumentMoniker": "C:\\Users\\stefa\\Desktop\\Programare\\Proiecte personale\\PersonalProjects\\TaskManager_V1.0.0\\TaskManager\\Task.cpp",
               "RelativeDocumentMoniker": "Task.cpp",
-              "ToolTip": "C:\\Users\\stefa\\Desktop\\Programare\\Proiecte personale\\PersonalProjects\\TaskManager\\Task.cpp",
+              "ToolTip": "C:\\Users\\stefa\\Desktop\\Programare\\Proiecte personale\\PersonalProjects\\TaskManager_V1.0.0\\TaskManager\\Task.cpp",
               "RelativeToolTip": "Task.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -60,24 +61,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "TaskManager.cpp",
-              "DocumentMoniker": "C:\\Users\\stefa\\Desktop\\Programare\\Proiecte personale\\PersonalProjects\\TaskManager\\TaskManager.cpp",
+              "DocumentMoniker": "C:\\Users\\stefa\\Desktop\\Programare\\Proiecte personale\\PersonalProjects\\TaskManager_V1.0.0\\TaskManager\\TaskManager.cpp",
               "RelativeDocumentMoniker": "TaskManager.cpp",
-              "ToolTip": "C:\\Users\\stefa\\Desktop\\Programare\\Proiecte personale\\PersonalProjects\\TaskManager\\TaskManager.cpp",
+              "ToolTip": "C:\\Users\\stefa\\Desktop\\Programare\\Proiecte personale\\PersonalProjects\\TaskManager_V1.0.0\\TaskManager\\TaskManager.cpp",
               "RelativeToolTip": "TaskManager.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBoAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-30T18:27:03.102Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "TaskManager.h",
-              "DocumentMoniker": "C:\\Users\\stefa\\Desktop\\Programare\\Proiecte personale\\PersonalProjects\\TaskManager\\TaskManager.h",
+              "DocumentMoniker": "C:\\Users\\stefa\\Desktop\\Programare\\Proiecte personale\\PersonalProjects\\TaskManager_V1.0.0\\TaskManager\\TaskManager.h",
               "RelativeDocumentMoniker": "TaskManager.h",
-              "ToolTip": "C:\\Users\\stefa\\Desktop\\Programare\\Proiecte personale\\PersonalProjects\\TaskManager\\TaskManager.h",
+              "ToolTip": "C:\\Users\\stefa\\Desktop\\Programare\\Proiecte personale\\PersonalProjects\\TaskManager_V1.0.0\\TaskManager\\TaskManager.h",
               "RelativeToolTip": "TaskManager.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -86,11 +88,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Task.h",
-              "DocumentMoniker": "C:\\Users\\stefa\\Desktop\\Programare\\Proiecte personale\\PersonalProjects\\TaskManager\\Task.h",
+              "DocumentMoniker": "C:\\Users\\stefa\\Desktop\\Programare\\Proiecte personale\\PersonalProjects\\TaskManager_V1.0.0\\TaskManager\\Task.h",
               "RelativeDocumentMoniker": "Task.h",
-              "ToolTip": "C:\\Users\\stefa\\Desktop\\Programare\\Proiecte personale\\PersonalProjects\\TaskManager\\Task.h",
+              "ToolTip": "C:\\Users\\stefa\\Desktop\\Programare\\Proiecte personale\\PersonalProjects\\TaskManager_V1.0.0\\TaskManager\\Task.h",
               "RelativeToolTip": "Task.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
